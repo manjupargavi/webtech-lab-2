@@ -1,0 +1,174 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+*{
+    margin : 0;
+    padding:0;
+}
+body{
+    background-position: center;
+    background-size: cover;
+    font-family: 'Poppins',sans-serif;
+    margin-top: 40px;
+    background-color: teal;
+}
+.reg{
+    background-color: black;
+    margin:auto;
+    color: teal;
+    padding: 10px 0px 10px 0px;
+    text-align:center;
+    border-radius: 15px 15px 0px 0px;
+}
+.main{
+    background-color: black;
+    width:800px;
+    margin:auto;
+}
+form{
+    padding: 10px;
+}
+.name{
+    margin-left: 25px;
+    margin-top: 30px;
+    width: 125px;
+    color:teal;
+    font-size: 18px;
+    
+}
+.first{
+    border : none;
+    background-color: black;
+    border-bottom: 1px solid teal;
+    width: 250px;
+    font-size: 20px;
+    margin-top: 40px;
+    outline: none;
+    color: grey;
+    position:relative;
+    left: 200px;
+    top: -37px;
+    width: 50%;
+}
+.user{
+    border : none;
+    background-color: black;
+    border-bottom: 1px solid teal;
+    width: 250px;
+    font-size: 20px;
+    margin-top: 40px;
+    outline: none;
+    color: grey;
+    position:relative;
+    left: 200px;
+    top: -37px;
+    width: 50%;
+}
+.email{
+    border : none;
+    background-color: black;
+    border-bottom: 1px solid teal;
+    width: 250px;
+    font-size: 20px;
+    margin-top: 40px;
+    outline: none;
+    color: grey;
+    position:relative;
+    left: 200px;
+    top: -37px;
+    width: 50%;
+}
+.password{
+    border : none;
+    background-color: black;
+    border-bottom: 1px solid teal;
+    width: 250px;
+    font-size: 20px;
+    margin-top: 40px;
+    outline: none;
+    color: grey;
+    position:relative;
+    left: 200px;
+    top: -37px;
+    width: 50%;
+}
+.phone{
+    border : none;
+    background-color: black;
+    border-bottom: 1px solid teal;
+    width: 250px;
+    font-size: 20px;
+    margin-top: 40px;
+    outline: none;
+    color: grey;
+    position:relative;
+    left: 200px;
+    top: -37px;
+    width: 50%;
+}
+.option{
+    border : none;
+    background-color: black;
+    border-bottom: 1px solid teal;
+    width: 250px;
+    font-size: 20px;
+    margin-top: 40px;
+    outline: none;
+    color: white;
+    position:relative;
+    left: 200px;
+    top: -37px;
+    width: 50%;
+    color: grey;
+}
+.option1{
+    border : none;
+    background-color: black;
+    border-bottom: 1px solid teal;
+    width: 250px;
+    font-size: 20px;
+    margin-top: 40px;
+    outline: none;
+    color: white;
+    position:relative;
+    left: 200px;
+    top: -37px;
+    width: 50%;
+    color: grey;
+}
+.option2{
+    border : none;
+    background-color: black;
+    border-bottom: 1px solid teal;
+    width: 250px;
+    font-size: 20px;
+    margin-top: 40px;
+    outline: none;
+    color: white;
+    position:relative;
+    left: 200px;
+    top: -37px;
+    width: 50%;
+    color: grey;
+}
+ button{
+    width: 100px;
+    height: 30px;
+    text-align: center;
+    position:relative;
+    right: 50px;
+    color:black;
+    
+    font-size: 22px;
+    border-radius: none;
+    margin-top: 25px;
+    border-color: teal;
+    color: cadetblue;
+    background-color: black;
+}
+button:hover{
+    border: 3px solid teal;
+    color: white;
+    font-size: 20px;
+    background-color: black;
+}
+
+
